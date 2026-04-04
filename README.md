@@ -4,28 +4,25 @@ Personal mods setup for the B2B SAAS Minecraft Server.
 
 ## Prerequisites
 
-> **Note:** Git must be installed on your system for this to work.
+> **Note:** You must have fabric installed in your minecraft launcher in order to proceed
+
+### Fabric Installation Tutorials
+- [Fabric for TLauncher](https://www.youtube.com/watch?v=CJ69o50qdKo&t=8s&pp=ygUiaG93IHRvIGluc3RhbGwgZmFicmljIGluIHRsYXVuY2hlcg%3D%3D)
+- [Fabric for Legacy Launcher](https://www.youtube.com/watch?v=0l1XEEaPn6s&pp=ygUoaG93IHRvIGluc3RhbGwgZmFicmljIGluIGxlZ2FjeSBsYXVuY2hlcg%3D%3D)
+- [Fabric for the Official Launcher](https://www.youtube.com/watch?v=RpN94a2q8JI&t=1s&pp=ygUfaG93IHRvIGluc3RhbGwgZmFicmljIG1pbmVjcmFmdA%3D%3D)
+
 
 ## Installation Instructions
 
 Follow these steps to install the mods:
 
-### Step 1: Navigate to the Mods Folder
+### Step 1: Download this repository
+![Image](howtodoanload.png)
 
-Open the mods directory located at:
-```
-<drive>:\Users\<user>\AppData\Roaming\.minecraft\mods
-```
+### Setep 2: Transfer Files
+After downloading open the ZIP file then copy everything inside excluding the `howtodoanload.png` file because that is an image not a mod lol.
 
-### Step 2: Open Terminal in This Directory
+After copying paste it inside the mods folder, which is usually located in `C:\Users\[user]]\AppData\Roaming\.minecraft\mods` accesible by pressing `windows + r` and entering "appdata"
 
-Right-click the folder and select **"Open in terminal"**, or open this directory in your preferred terminal application.
-
-### Step 3: Clone the Repository
-
-Run the following command:
-```bash
-git clone https://github.com/DAKSie/B2B-SAAS-MINECRAFT-SERVER-MODS.git .
-```
-
-> **Important:** The `.` at the end of the command is required. It clones the repository into the root directory without creating a nested folder.
+### Step 3: Open Minecraft
+You should be ready to go after transferring the files.
